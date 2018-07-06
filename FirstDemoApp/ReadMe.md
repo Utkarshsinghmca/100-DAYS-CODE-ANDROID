@@ -1,4 +1,1 @@
-Screenshot Of Application
-
-
-![Screenshot](FirstDemoApp/SCREEN.jpeg)
+![](FirstDemoApp/SCREEN.jpeg)
