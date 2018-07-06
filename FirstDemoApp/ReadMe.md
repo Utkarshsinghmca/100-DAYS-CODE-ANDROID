@@ -1,1 +1,0 @@
-![](FirstDemoApp/SCREEN.jpeg)
